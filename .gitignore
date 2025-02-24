@@ -1,1 +1,5 @@
 demographics_data
+
+/.quarto/
+_quarto.yml
+chloropleth_map.html
